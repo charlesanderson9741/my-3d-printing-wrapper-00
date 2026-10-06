@@ -107,3 +107,4 @@ namespace Thrift.Protocol
         public abstract Byte[] ReadBinary();
     }
 }
+// 1c5a9f

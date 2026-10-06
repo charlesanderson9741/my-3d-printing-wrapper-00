@@ -111,3 +111,4 @@ namespace Thrift
         public ExceptionType Type { get; private set; }
     }
 }
+// d7b117

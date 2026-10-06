@@ -25,3 +25,5 @@ namespace Anno.Rpc.Storage
         public const string ANNOMICROSERVICE = "ANNOSVR";
     }
 }
+
+// 006f61

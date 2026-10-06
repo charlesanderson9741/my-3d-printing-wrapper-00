@@ -202,3 +202,5 @@ namespace Thrift.Transport
         }
     }
 }
+
+// a76bb4

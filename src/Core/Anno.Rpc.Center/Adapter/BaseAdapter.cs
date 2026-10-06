@@ -9,3 +9,5 @@ namespace Anno.Rpc.Adapter
         internal abstract string Invoke(Dictionary<string, string> command);
     }
 }
+
+// 7b54cb

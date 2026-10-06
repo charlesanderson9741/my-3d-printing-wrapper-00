@@ -41,3 +41,4 @@ service BrokerCenter {
     rpc  Invoke(BrokerRequest) returns (BrokerReply){}
     rpc  Ping(google.protobuf.Empty) returns (PingReply);
 }
+

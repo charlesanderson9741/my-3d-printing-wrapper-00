@@ -21,3 +21,5 @@ namespace Anno.Const.Attribute
         public String Desc { get; set; }
     }
 }
+
+// 93c779

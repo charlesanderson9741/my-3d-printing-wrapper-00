@@ -19,3 +19,4 @@ namespace Thrift.Protocol
         public Int32 SeqID { get; set; }
     }
 }
+// 6dbcd8

@@ -233,3 +233,5 @@ namespace Thrift.Protocol
     }
 
 }
+
+// 4c7112

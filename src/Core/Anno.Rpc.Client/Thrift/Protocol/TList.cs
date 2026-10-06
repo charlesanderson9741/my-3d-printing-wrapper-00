@@ -16,3 +16,4 @@ namespace Thrift.Protocol
         public Int32 Count { get; set; }
     }
 }
+// 2bd7be

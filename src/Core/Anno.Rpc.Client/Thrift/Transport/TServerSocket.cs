@@ -153,3 +153,5 @@ namespace Thrift.Transport
         }
     }
 }
+
+// 2d9ded

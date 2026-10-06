@@ -78,3 +78,4 @@ namespace Thrift.Protocol
         }
     }
 }
+// e70dd5

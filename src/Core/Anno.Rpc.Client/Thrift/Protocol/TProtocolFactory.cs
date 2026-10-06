@@ -7,3 +7,4 @@ namespace Thrift.Protocol
         TProtocol GetProtocol(TTransport trans);
     }
 }
+// bf39c1

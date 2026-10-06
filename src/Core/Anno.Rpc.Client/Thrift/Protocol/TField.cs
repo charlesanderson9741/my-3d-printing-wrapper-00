@@ -19,3 +19,4 @@ namespace Thrift.Protocol
         public Int16 ID { get; set; }
     }
 }
+// a9d993

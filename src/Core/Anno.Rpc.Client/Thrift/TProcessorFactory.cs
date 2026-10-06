@@ -8,3 +8,4 @@ namespace Thrift
         TProcessor GetProcessor(TTransport trans, TServer server = null);
     }
 }
+// bcc207

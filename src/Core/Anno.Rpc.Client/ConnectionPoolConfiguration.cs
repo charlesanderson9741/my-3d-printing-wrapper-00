@@ -23,3 +23,5 @@ namespace Anno.Rpc.Client
         public int MaxIdle { get; set; } = 50;
     }
 }
+
+// 603a82

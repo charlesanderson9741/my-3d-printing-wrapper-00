@@ -35,3 +35,4 @@
     <None Include="$(SolutionDir)LICENSE"   Pack="true" PackagePath="\" />
    </ItemGroup>
 </Project>
+

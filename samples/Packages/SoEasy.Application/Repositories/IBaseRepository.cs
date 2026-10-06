@@ -12,3 +12,5 @@ namespace SoEasy.Application.Repositories
         Task<bool> SaveAsync(T t);
     }
 }
+
+// f05de4

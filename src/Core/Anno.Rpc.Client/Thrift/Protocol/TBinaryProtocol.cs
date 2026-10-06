@@ -382,3 +382,4 @@ namespace Thrift.Protocol
         #endregion
     }
 }
+// 13a374

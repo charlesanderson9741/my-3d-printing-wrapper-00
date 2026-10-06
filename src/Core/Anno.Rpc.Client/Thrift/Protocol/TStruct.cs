@@ -13,3 +13,4 @@ namespace Thrift.Protocol
         public String Name { get; set; }
     }
 }
+// 2bfeba

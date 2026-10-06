@@ -74,3 +74,4 @@ namespace Thrift.Collections
         }
     }
 }
+// 06faa8

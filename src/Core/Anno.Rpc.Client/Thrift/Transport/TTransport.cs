@@ -118,3 +118,5 @@ namespace Thrift.Transport
         #endregion
     }
 }
+
+// 57d94d

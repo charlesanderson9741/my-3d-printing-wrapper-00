@@ -23,3 +23,5 @@ namespace Anno.Log
         public LogType logType { get; set; }
     }
 }
+
+// 006cd5

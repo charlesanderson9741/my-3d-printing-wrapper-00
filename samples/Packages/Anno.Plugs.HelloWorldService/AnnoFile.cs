@@ -53,3 +53,5 @@ namespace Anno.Plugs.HelloWorldService
         public byte[] Content { get; set; }
     }
 }
+
+// cbcf2b

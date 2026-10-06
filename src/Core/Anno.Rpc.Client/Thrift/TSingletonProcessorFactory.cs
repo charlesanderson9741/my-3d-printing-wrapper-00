@@ -12,3 +12,4 @@ namespace Thrift
         public TProcessor GetProcessor(TTransport trans, TServer server = null) => processor_;
     }
 }
+// 09819c

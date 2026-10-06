@@ -19,3 +19,5 @@ namespace Anno.EngineData
         void ConfigurationBootstrap();
     }
 }
+
+// 5412cd

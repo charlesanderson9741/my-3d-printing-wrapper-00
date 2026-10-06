@@ -11,3 +11,5 @@ namespace Anno.EngineData.SysInfo
         public double Free;
     }
 }
+
+// 25bab3

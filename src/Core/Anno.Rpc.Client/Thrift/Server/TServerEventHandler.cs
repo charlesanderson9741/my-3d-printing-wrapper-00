@@ -28,3 +28,4 @@ namespace Thrift.Server
         void processContext(Object serverContext, Transport.TTransport transport);
     };
 }
+// 1dbfc5

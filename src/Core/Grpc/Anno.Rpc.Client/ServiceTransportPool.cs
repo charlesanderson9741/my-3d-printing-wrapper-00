@@ -63,3 +63,5 @@ namespace Anno.Rpc.Client
         public DateTime LastDateTime { get; set; } = DateTime.Now;
     }
 }
+
+// 41cb64

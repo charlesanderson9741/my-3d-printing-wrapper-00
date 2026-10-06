@@ -39,3 +39,4 @@ namespace Thrift.Protocol
         public Int32 getType() => type_;
     }
 }
+// 3687a0

@@ -12,3 +12,5 @@ namespace Anno.EngineData.Cache
         void RemoveCache(string key);
     }
 }
+
+// 48f553

@@ -40,3 +40,5 @@ namespace Anno.Rpc.Storage
         public const string Id = "Id";
     }
 }
+
+// 0094ae

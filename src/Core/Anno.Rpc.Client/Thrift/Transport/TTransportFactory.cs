@@ -12,3 +12,4 @@ namespace Thrift.Transport
         public virtual TTransport GetTransport(TTransport trans) => trans;
     }
 }
+// 65c77d

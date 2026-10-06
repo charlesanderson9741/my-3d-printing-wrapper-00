@@ -27,3 +27,5 @@ namespace Anno.Plugs.DLockService
         public ProcessType Type { get; set; }
     }
 }
+
+// f861aa

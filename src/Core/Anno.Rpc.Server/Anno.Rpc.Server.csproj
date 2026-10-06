@@ -13,3 +13,4 @@
     <ProjectReference Include="..\Anno.Rpc.Client\Anno.Rpc.Client.csproj" />
   </ItemGroup>
 </Project>
+

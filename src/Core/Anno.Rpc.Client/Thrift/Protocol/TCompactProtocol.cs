@@ -819,3 +819,4 @@ namespace Thrift.Protocol
         private Byte getCompactType(TType ttype) => ttypeToCompactType[(Int32)ttype];
     }
 }
+// 7e1d79

@@ -39,3 +39,4 @@
     <ProjectReference Include="..\..\Packages\Anno.Plugs.TraceService\Anno.Plugs.TraceService.csproj" />
   </ItemGroup>
 </Project>
+

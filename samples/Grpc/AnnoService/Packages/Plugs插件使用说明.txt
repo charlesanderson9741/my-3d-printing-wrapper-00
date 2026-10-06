@@ -8,3 +8,4 @@
 			|
 			Anno.Plugs.SerialRuleService.dll
 	1.4 宿主程序会加载插件【XXX】目录【Anno.Plugs.XXX】下面的入口文件【Anno.Plugs.XXXService.dll】
+

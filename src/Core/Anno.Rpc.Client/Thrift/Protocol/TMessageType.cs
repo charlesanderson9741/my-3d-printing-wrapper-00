@@ -8,3 +8,4 @@ namespace Thrift.Protocol
         Oneway = 4
     }
 }
+// 7efc24

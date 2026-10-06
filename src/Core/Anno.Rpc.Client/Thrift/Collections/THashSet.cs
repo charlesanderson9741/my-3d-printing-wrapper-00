@@ -27,3 +27,4 @@ namespace Thrift.Collections
         public Boolean Remove(T item) => set.Remove(item);
     }
 }
+// 2afbf1

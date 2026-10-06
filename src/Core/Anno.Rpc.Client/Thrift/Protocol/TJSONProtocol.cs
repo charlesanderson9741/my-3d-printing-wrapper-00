@@ -1102,3 +1102,4 @@ namespace Thrift.Protocol
 
     }
 }
+// e6de8d

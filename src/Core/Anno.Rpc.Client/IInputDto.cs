@@ -26,3 +26,5 @@ namespace Anno.Rpc.Client
         string method { get; set; }
     }
 }
+
+// 8bdea8

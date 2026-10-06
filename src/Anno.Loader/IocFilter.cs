@@ -13,3 +13,5 @@ namespace Anno.Loader
         internal static List<Func<Type, bool>> Filters = new List<Func<Type, bool>>();
     }
 }
+
+// 5373f4

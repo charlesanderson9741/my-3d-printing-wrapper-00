@@ -18,3 +18,4 @@ namespace Thrift
         Task<Boolean> ProcessAsync(TProtocol iprot, TProtocol oprot);
     }
 }
+// c41691

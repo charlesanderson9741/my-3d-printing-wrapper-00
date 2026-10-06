@@ -8,3 +8,5 @@ namespace Thrift.Protocol
         void Read(TProtocol tProtocol);
     }
 }
+
+// 9ee7d6

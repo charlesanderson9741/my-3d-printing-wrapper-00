@@ -19,3 +19,5 @@ namespace Anno.Const
         public static List<string> IocDll { get; set; } = new List<string>();        
     }
 }
+
+// 3d272a

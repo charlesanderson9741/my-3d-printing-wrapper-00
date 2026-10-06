@@ -8,3 +8,4 @@ namespace Thrift.Protocol
         void Write(TProtocol tProtocol);
     }
 }
+// f7b5e7

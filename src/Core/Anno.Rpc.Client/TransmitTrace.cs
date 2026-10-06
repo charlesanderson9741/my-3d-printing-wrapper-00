@@ -393,3 +393,5 @@ namespace Anno.Rpc.Client
         public double UseTimeMs { get; set; }
     }
 }
+
+// eb0723

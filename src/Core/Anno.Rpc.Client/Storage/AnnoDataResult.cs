@@ -24,3 +24,5 @@ namespace Anno.Rpc.Storage
         public T Data { get; set; }
     }
 }
+
+// 5ce591

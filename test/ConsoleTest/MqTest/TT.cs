@@ -12,3 +12,5 @@ namespace ConsoleTest.MqTest
         public string Msg { get; set; }
     }
 }
+
+// 99eb89

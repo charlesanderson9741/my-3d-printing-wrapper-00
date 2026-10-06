@@ -20,3 +20,5 @@ namespace Anno.EngineData
         void SetDefaultConnectionPool(int maxActive, int minIdle, int maxIdle);
     }
 }
+
+// a5291d

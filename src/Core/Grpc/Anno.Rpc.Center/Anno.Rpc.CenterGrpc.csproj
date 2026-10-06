@@ -20,3 +20,4 @@
     <Compile Include="..\..\Anno.Rpc.Center\EventNotice.cs" />
   </ItemGroup>
 </Project>
+

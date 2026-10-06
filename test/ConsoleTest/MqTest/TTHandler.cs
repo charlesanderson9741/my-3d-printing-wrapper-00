@@ -20,3 +20,5 @@ namespace ConsoleTest.MqTest
         }
     }
 }
+
+// 084864

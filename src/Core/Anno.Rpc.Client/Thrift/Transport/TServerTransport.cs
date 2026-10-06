@@ -17,3 +17,4 @@ namespace Thrift.Transport
         }
     }
 }
+// 6aa017

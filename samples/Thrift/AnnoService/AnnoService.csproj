@@ -41,3 +41,4 @@
     <ProjectReference Include="..\..\Packages\Jky.Web.Core.ModelManageService\Jky.Web.Core.ModelManageService.csproj" />
   </ItemGroup>
 </Project>
+

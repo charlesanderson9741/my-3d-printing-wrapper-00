@@ -8,3 +8,4 @@ namespace Thrift
         Boolean Process(TProtocol iprot, TProtocol oprot);
     }
 }
+// 0d70fb

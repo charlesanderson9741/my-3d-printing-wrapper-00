@@ -37,3 +37,4 @@
     <Compile Update="..\..\Anno.Rpc.Client\Storage\StorageCommand.cs" Link="Storage\StorageCommand.cs" />
   </ItemGroup>
 </Project>
+

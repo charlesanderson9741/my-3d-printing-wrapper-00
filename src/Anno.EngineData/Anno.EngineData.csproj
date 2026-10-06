@@ -25,3 +25,4 @@
     <ProjectReference Include="..\Anno.Log\Anno.Log.csproj" />
   </ItemGroup>
 </Project>
+

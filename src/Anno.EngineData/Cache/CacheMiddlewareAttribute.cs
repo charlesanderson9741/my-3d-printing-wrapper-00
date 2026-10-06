@@ -14,3 +14,5 @@ namespace Anno.EngineData.Cache
         public abstract bool TryGetCache(string key, out ActionResult actionResult);
     }
 }
+
+// 8d54b8

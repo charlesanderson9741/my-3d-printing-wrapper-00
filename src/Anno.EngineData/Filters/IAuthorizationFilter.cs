@@ -9,3 +9,5 @@ namespace Anno.EngineData.Filters
         void OnAuthorization(BaseModule context);
     }
 }
+
+// 6e886c

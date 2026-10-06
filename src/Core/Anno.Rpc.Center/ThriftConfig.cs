@@ -457,3 +457,5 @@ namespace Anno.Rpc.Center
         public bool IsTemporaryRemove { get; set; } = false;
     }
 }
+
+// 6fa02a

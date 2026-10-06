@@ -15,3 +15,4 @@ service BrokerCenter {  #  注释3
 	list<Micro> GetMicro(1:string  channel)
     string Invoke(1:map<string,string>  input)
 }
+

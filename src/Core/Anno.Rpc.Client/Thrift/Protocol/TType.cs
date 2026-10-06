@@ -19,3 +19,4 @@ namespace Thrift.Protocol
         List = 15
     }
 }
+// 8c3556
